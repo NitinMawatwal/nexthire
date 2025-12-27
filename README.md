@@ -51,7 +51,5 @@ The platform allows users to explore job listings, post jobs, manage application
 * Vercel (Deployment)
 
 🚀 Deployment
-next-hire-lac.vercel.app
----
+https://next-hire-lac.vercel.app/
 
-ory**!
